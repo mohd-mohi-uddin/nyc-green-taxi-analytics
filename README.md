@@ -6,6 +6,14 @@ An end-to-end data analytics project using **PySpark, Databricks Community Editi
 
 ![NYC Green Taxi Power BI Dashboard](dashboard/dashboard.png)
 
+## Architecture
+
+![Project Architecture](docs/architecture.png)
+
+## Data Model
+
+![Power BI Data Model](docs/data_model.png)
+
 ## Project Overview
 
 This project analyzes 2025 NYC Green Taxi trip records using the Medallion Architecture (Bronze, Silver, Gold). The objective is to transform raw trip data into structured analytical datasets and build an interactive Power BI dashboard to explore taxi demand, revenue trends, payment behavior, and pickup-zone performance.
