@@ -4,7 +4,7 @@ An end-to-end data analytics project using **PySpark, Databricks Community Editi
 
 ## Dashboard Preview
 
-![NYC Green Taxi Power BI Dashboard](dashboard/dashboard_preview.png)
+![NYC Green Taxi Power BI Dashboard](dashboard/dashboard.png)
 
 ## Project Overview
 
